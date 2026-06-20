@@ -1,0 +1,7 @@
+{
+	"name": "integrationRuntime-gcp",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "ir running on gcp"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "MySqlTable_emp_a",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "MySql1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "MySqlTable",
+		"schema": [],
+		"typeProperties": {
+			"tableName": "`emp_a`"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

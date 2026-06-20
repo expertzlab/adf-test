@@ -1,0 +1,15 @@
+{
+	"name": "ir-install-test",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76a08491-3951-426d-b97c-c298bcf6760a",
+		"tenantId": "8c76d518-2341-4a33-b1c2-d5a9453a01b2"
+	}
+}
